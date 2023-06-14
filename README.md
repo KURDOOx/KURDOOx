@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KURDOOx
-- 👀 I’m interested in Pi's :-) 
+- 👀 I’m interested in Pi's & scripts :-) 
 - 🌱 I’m currently learning Ubuntu
 - 💞️ I’m looking to collaborate on everything LOL
 - 📫 How to reach me ...
